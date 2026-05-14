@@ -1,0 +1,74 @@
+/* Body*/
+$body-bg: #f8fafc;
+
+/* Fonts */
+@font-face {
+ font-family: "Lato Bold";
+ src: url("../fonts/Lato-Bold.ttf") format('truetype');
+}
+
+@font-face {
+ font-family: "Lato Regular";
+ src: url("../fonts/Lato-Regular.ttf") format('truetype');
+}
+
+@font-face {
+ font-family: "DIN Alternate";
+ src: url("../fonts/din-alternate-bold.ttf") format('truetype');
+}
+
+@font-face {
+ font-family: "DIN Pro Light";
+ src: url("../fonts/din-pro-light.ttf") format('truetype');
+}
+
+@font-face {
+ font-family: "DIN Pro Bold";
+ src: url("../fonts/din-pro-bold.ttf") format('truetype');
+}
+
+$latoBold: "Lato Bold";
+$latoReg: "Lato Regular";
+$dinAlt: "DIN Alternate";
+$dinProLight: "DIN Pro Light";
+$dinProBold: "DIN Pro Bold";
+
+/* Typography*/
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+/* Colors*/
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+
+
+/* fonts*/
+$latoBold: "Lato Bold";
+$latoRegular: "Lato Regular";
+$dinAlt: "DIN Alternate";
+$dinProLight: "DIN Pro Light";
+$dinProBold: "DIN Pro Bold";
+
+/* Custom*/
+$up: uppercase;
+$forestGrn: #228B22;
+$darkGrey: #292929;
+$steelBlue: #4682B4;
+$steelBlueLight: rgba(70, 130, 180, 0.2);
+$shadLit: 2px 2px 2px grey;
+$lightBlue: #00BFFF;
+$gold: #FFD700;
+
+$custom-file-text: (
+  en: "Browse",
+  ru: "Обзор"
+);

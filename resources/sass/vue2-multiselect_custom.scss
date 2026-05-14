@@ -1,0 +1,17 @@
+.multiselect {
+	min-width: 180px;
+	height: 45px;
+	font-size: 14px;
+}
+
+.multiselect__tags input {
+	font-size: 14px;
+}
+
+.multiselect__placeholder { 
+    color: grey; 
+    display: inline-block; 
+    margin-bottom: 0px; 
+    padding-top: 0px; 
+    margin-left: 12px; //to fix placeholder text
+}
